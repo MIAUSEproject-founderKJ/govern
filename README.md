@@ -26,11 +26,19 @@ sectors:
     
   ii) making of law/policy/people's voice  
       .) ensure more transparency  
-      .) ensure efficient survey of people's voice
-      .) 
+      .) ensure efficient survey of people's voice  
+      .) let people uphold more power in local area
       
   iii) application & investment on every field including education, arts, science/technology & public health & agriculture & construction & capital investment.  
+      .) 
+  
   iv) royals & armed officers (comittee)  
-  v) intelligence/information/national security  
-  vi) resouce/finance/tax/election funding management      
+  
+  v) intelligence/information/national security/media/speech freedom
+      .) One official media in the name of government
+      .) private media within standards set and audited by citizens+NGO should also be funded
+      .) 
+  
+  vi) resouce/finance/tax/election funding management  
+      .) reduce tax rate, let citizen involve directly in tender & public construction like roads.  
   
