@@ -16,4 +16,8 @@ sectors:
   7)laws
   8)NGO and social media
   9)enforcement of laws and regulations
+  10)economic growth and ensure sustainability  
+  11)institution framework of authority
+  A) LISTS OF NECESSARY MINISTRY  
+  i) 
   
