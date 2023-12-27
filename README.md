@@ -20,7 +20,7 @@ sectors:
   
   11) framework of authority
       
-  A) LISTS OF NECESSARY BRANCH OF AUTHORITY ADMINISTRATION  
+  A) LISTS OF NECESSARY BRANCH OF AUTHORITY ADMINISTRATION - 5+1 ministry
   i) judiciary & law & policy enforcement & budget-auditing   
     .) strengthen the power of enforcement
     
