@@ -1,80 +1,126 @@
-# govern
-  Personal idea on how to govern. Firstly built on UTC+8 28 december 2023.  
-
-ORGANIZATION:   
-  A) BUSINESS/CAPITAL oriented   
-  B) NGO/non-profit oriented     
-  C) Social media oriented  
+Vision for Governance  
+Personal vision on effective leadership, initially crafted on December 28, 2023, based on UTC+8.  
   
-sectors:  
-  1)finance/economy/tax of individual vs authority vs organization  
-  2)power&freedom of speech, self-defense of authority vs individual vs organization  
-  3)education  
-  4)military power/national security and restrictions against it  
-  5)execution of government's orders by government officers including army  
-  6)fundamental belief of people  
-  7)laws-making  
-  8)NGO and social media  
-  9)enforcement of laws and regulations  
-  10)economic growth and ensure sustainability    
+ORGANIZATION:  
+A) Enterprise/Corporate-oriented  
+B) NGO/Non-profit-oriented  
+C) Social Media-oriented  
   
-  11) framework of authority
-      
-  A) LISTS OF NECESSARY BRANCH OF AUTHORITY ADMINISTRATION - 5+1 ministry
-  i) judiciary & law & policy enforcement & budget-auditing   
-    .) strengthen the power of enforcement
-    
-  ii) making of law/policy/people's voice  
-      .) ensure more transparency  
-      .) ensure efficient survey of people's voice  
-      .) let people uphold more power in local area
-      
-  iii) development including education, entertainment, arts, science/technology & public health & agriculture & construction & capital investment.  
-      .) half-privatise government institutions, but empowers the authority to audit and veto the decisions of the private organization.  
-      .) each field is studied by each different commitee. The minister duty is to set the priority and reject the proposals by the comittees.  
-      .) education: debate class should be held each day for 1 hour
-      .) a school for students where it teaches lessons in tamil, mandarin and malay in different period.
-      .) should teach people about propaganda/information analysis(moral & religion), anti-scam (moral & religion), financial management (mathematics), philosophy of various ideologies(moral & religion), mental heatlh management(moral & religion).
-      .) government is restricted to involve in management of the private sectors  
-      .) send government officers down to field to teach citizens how to use the new technologies and regulations  
-      .) owners and shareholders of profiting organization like enterprises should be only allowed to save or invest their money in share, the money should be spent on R&D & SME & luxurious shopping, unless it acts as backup savings of the business  
-      .) basic needs of people should be ensured by prevent high housing costs, ensure cheap food availability, transport availability  
-      .) make folk lores to unite people  
-      .) the construction is mandatory to allow pedestrians, old people and kids to be safe to use the utilities and so on.  
-      .) authority designs and allocates the main role/purposes of the different areas of the country.  
-      .) every areas is enforced with military/self-defense power  
-      .) encourage or ensure allocation of tax money into financial & mental health counselling for the citizens.  
-      
-  iv) royals & armed officers (comittee)  
-      .) allow them to have a representative on parliament.
+Sectors:  
+Finance/Economy/Taxation - Balancing the interests of individuals, authorities, and organizations.  
+Power & Freedom of Speech - Addressing self-defense for individuals, authorities, and organizations.  
+Education - Focusing on comprehensive educational development.  
+Military Power/National Security - Implementing and regulating military capabilities.  
+Execution of Government's Orders - Conducted by government officers, including the army.  
+Fundamental Beliefs - Respecting diverse beliefs of the people.  
+Laws-Making - Prioritizing transparent legislation processes.  
+NGO and Social Media - Assessing and overseeing non-profit organizations and online platforms.  
+Enforcement of Laws and Regulations - Maintaining a balance between authority and individual rights.  
+Economic Growth and Sustainability - Ensuring sustainable development and economic well-being.  
 
-  v) intelligence/information/national security/media/speech freedom/foreign policy
-      .) One official media under the name of government
-      .) private media within standards set and audited by citizens+NGO should also be funded, to avoid malicious foreign interference.
-      .) information should be classified and labeled clearly as government/organization_verified & non-verified information.
-      .) ensure freedom of speech, but authority should label the information and empowered to leave government comments.  
-      .) every people should be trained for national defense.  
-      .) authority has rights to restrict the activities with other countries  
-      .) freedom of speech-authority has no rights to ban the spread of any information but has rights to label it as "alerting info"
-      .) authority should uphold the principle of "an eye for an eye" when dealing with other countries 
-      .) ensure high funding into military power.  
-      .) put high taxes on sugar, to prevent high rise of diabetes cases.  
-      .) ensure the military power of the country able to reach far.  
-        
-  vi) resouce/finance/tax/election management  
-      .) reduce tax rate, let people take care of the local area construction.  
-      .) every party is given same fixed amount of election campaign money, and given same size of platforms for campaign.  
-      .) authority has rights to restrict the activities of any organizations with other countries.  
-      .) authority has rights to restrict the movement of people only within 1 month period for any reason.  
-      reasons:  
-      1) tax collected are likely being mishandled.  
-      2) rich people able to evade tax easily, only less wealthy people have to pay all their tax  
-      methods:  
-      .) encourage citizen involve directly in tender & public construction like roads and even other fundings.   
-      .) reduce regulations  
-      .) old folks should be encouraged for muscular training.  
+Framework of Authority  
+Branches of Authority Administration (5+1 Ministry):  
+i) Enforcement and Judicial Affairs Ministry:
+Responsibilities:
+Judiciary & Law Enforcement
+Policy Enforcement
+Budget Auditing
+Strengthening the power of enforcement
+ii) Democratic Governance and Public Engagement Ministry:
+Responsibilities:
+Making of Law/Policy/People's Voice
+Ensuring more transparency
+Efficient surveys of people's voices
+Empowering people in local areas
+iii) Comprehensive Development and Public Services Ministry:
+Responsibilities:
+Education, Entertainment, Arts, Science/Technology
+Public Health, Agriculture, Construction, Capital Investment
+Half-privatizing government institutions
+Empowering the authority to audit and veto decisions of private organizations
+Ensuring basic needs and safety in construction
+Allocating military/self-defense power to every area
+Allocating tax money to financial and mental health counseling for citizens
+iv) Royals and Armed Forces Representation Committee:
+Responsibilities:
+Allowing representation of Royals & Armed Officers in parliament
+v) National Security and Information Ministry:
+Responsibilities:
+Intelligence, Information, National Security
+Media, Speech Freedom, Foreign Policy
+Establishing official government media
+Funding private media within set standards
+Classifying information as government/organization-verified & non-verified
+Ensuring freedom of speech with government oversight
+Training every individual for national defense
+Restricting activities of organizations with other countries
+Upholding the principle of "an eye for an eye" in international dealings
+Ensuring high funding into military power
+Imposing high taxes on sugar   
+  
+vi) Resource and Governance Management Ministry:  
+Responsibilities:  
+Resource, Finance, Tax, Election Management  
+Reducing tax rates  
+Letting people manage local area construction  
+Providing equal election campaign resources and platform sizes  
+Empowering the authority to restrict activities of organizations with other countries  
+Restricting people's movement for reasons such as to prevent widespread of diseases...  
+Encouraging citizen involvement in tenders, public construction, and reducing regulations  
+Encouraging muscular training for the elderly 
 
-      Spirit/principle of democracy/liberty  
-      Individual has rights to not doing what he does not want to do.  
-      
+Spirit/Principle of Democracy/Liberty:
+Individual Autonomy:
+
+Upholding the spirit of democracy involves recognizing and respecting the autonomy of individuals. Individuals have the fundamental right to make choices and participate in governance willingly.
+Liberty encompasses the freedom to abstain from activities that individuals find objectionable, ensuring their rights and preferences are safeguarded.
+Informed Decision-Making:
+
+A thriving democracy promotes informed decision-making. It requires access to unbiased information, transparent processes, and open dialogue to enable citizens to make choices that align with their values.
+Protection of Minority Rights:
+
+The principle of democracy and liberty extends to safeguarding the rights of minorities. A just democracy ensures that even those who choose not to engage in certain activities are protected from any form of discrimination or coercion.
+Difficulties: Letting People Hold Power in Governance
+1) Lack of Understanding and Belief in the Philosophy of Democracy:  
+ 
+Education and Awareness Campaigns:  
+  
+Implementing robust educational programs to foster an understanding of democratic principles.  
+Conducting awareness campaigns that highlight the value of citizen participation and the impact of democratic governance.  
+Civic Engagement Initiatives:  
+  
+Establishing platforms for civic engagement, including town hall meetings, to encourage active participation and dialogue.  
+Promoting community discussions on the benefits of democracy and its role in shaping a just society.  
+2) Lack of Professional Expertise in Handling Complex Issues:  
+  
+Training and Skill Development:  
+  
+Investing in training programs and skill development to enhance citizens' understanding of complex issues.  
+Facilitating workshops and courses that empower individuals to navigate intricate policy and governance matters.  
+Advisory Support:  
+  
+Establishing advisory bodies comprising experts who can provide guidance to citizens on complex issues.  
+Creating accessible resources, such as online platforms and expert-led forums, to disseminate information and insights.  
+Difficulties: Letting Authority/Organizations Hold Power in Governance  
+1) Difficulty in Holding Underperforming or Corrupt Authorities Accountable:  
+  
+Independent Oversight Mechanisms:  
+  
+Strengthening independent oversight bodies with the authority to investigate and take action against underperforming or corrupt authorities.  
+Ensuring transparency in the accountability process, with regular public updates on investigations and outcomes.  
+Whistleblower Protections:  
+  
+Implementing robust whistleblower protection laws to encourage individuals to come forward with information on corruption without fear of reprisals.  
+Establishing mechanisms for anonymous reporting to safeguard whistleblowers.  
+2) Risk of Corruption within Organizations Leading to Dissemination of False Information:  
+  
+Transparency Measures:  
+  
+Instituting transparency measures within organizations, including regular audits and financial disclosure.  
+Promoting a culture of openness and accountability to minimize the risk of corruption and misinformation.  
+Media Literacy Programs:  
+  
+Implementing media literacy programs to educate the public on discerning between reliable and unreliable sources of information.  
+Encouraging critical thinking skills to empower individuals to question and verify information.  
+
   
