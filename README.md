@@ -8,55 +8,68 @@ C) Social Media-oriented
   
 Sectors:  
 Finance/Economy/Taxation - Balancing the interests of individuals, authorities, and organizations.  
+
 Power & Freedom of Speech - Addressing self-defense for individuals, authorities, and organizations.  
-Education - Focusing on comprehensive educational development.  
+
+Education - Focusing on comprehensive educational development.   
+
 Military Power/National Security - Implementing and regulating military capabilities.  
+
 Execution of Government's Orders - Conducted by government officers, including the army.  
 Fundamental Beliefs - Respecting diverse beliefs of the people.  
+
 Laws-Making - Prioritizing transparent legislation processes.  
+
 NGO and Social Media - Assessing and overseeing non-profit organizations and online platforms.  
+
 Enforcement of Laws and Regulations - Maintaining a balance between authority and individual rights.  
+
 Economic Growth and Sustainability - Ensuring sustainable development and economic well-being.  
 
 Framework of Authority  
-Branches of Authority Administration (5+1 Ministry):  
-i) Enforcement and Judicial Affairs Ministry:
-Responsibilities:
-Judiciary & Law Enforcement
-Policy Enforcement
-Budget Auditing
-Strengthening the power of enforcement
-ii) Democratic Governance and Public Engagement Ministry:
-Responsibilities:
-Making of Law/Policy/People's Voice
-Ensuring more transparency
-Efficient surveys of people's voices
-Empowering people in local areas
-iii) Comprehensive Development and Public Services Ministry:
-Responsibilities:
-Education, Entertainment, Arts, Science/Technology
-Public Health, Agriculture, Construction, Capital Investment
-Half-privatizing government institutions
-Empowering the authority to audit and veto decisions of private organizations
-Ensuring basic needs and safety in construction
-Allocating military/self-defense power to every area
-Allocating tax money to financial and mental health counseling for citizens
-iv) Royals and Armed Forces Representation Committee:
-Responsibilities:
-Allowing representation of Royals & Armed Officers in parliament
-v) National Security and Information Ministry:
-Responsibilities:
-Intelligence, Information, National Security
-Media, Speech Freedom, Foreign Policy
-Establishing official government media
-Funding private media within set standards
-Classifying information as government/organization-verified & non-verified
-Ensuring freedom of speech with government oversight
-Training every individual for national defense
-Restricting activities of organizations with other countries
-Upholding the principle of "an eye for an eye" in international dealings
-Ensuring high funding into military power
-Imposing high taxes on sugar   
+Branches of Authority Administration (5+1 Ministry):   
+i) Enforcement and Judicial Affairs Ministry:  
+Responsibilities:  
+Judiciary & Law Enforcement  
+Policy Enforcement  
+Budget Auditing  
+Strengthening the power of enforcement  
+
+ii) Democratic Governance and Public Engagement Ministry:  
+Responsibilities:  
+Making of Law/Policy/People's Voice  
+Ensuring more transparency  
+Efficient surveys of people's voices  
+Empowering people in local areas  
+
+iii) Comprehensive Development and Public Services Ministry:  
+Responsibilities:  
+Education, Entertainment, Arts, Science/Technology  
+Public Health, Agriculture, Construction, Capital Investment  
+Half-privatizing government institutions  
+Empowering the authority to audit and veto decisions of private organizations  
+Ensuring basic needs and safety in construction  
+Allocating military/self-defense power to every area  
+Allocating tax money to financial and mental health counseling for citizens  
+Semi-privatize the manpower of the administrative officers in government in order to reduce burden of government and to increase the efficiency by competence.  
+
+iv) Royals and Armed Forces Representation Committee:  
+Responsibilities:  
+Allowing representation of Royals & Armed Officers in parliament in order to let them feel represented, reduce tension and misunderstanding.    
+
+v) National Security and Information Ministry:  
+Responsibilities:  
+Intelligence, Information, National Security  
+Media, Speech Freedom, Foreign Policy  
+Establishing official government media  
+Funding private media within set standards  
+Classifying information as government/organization-verified & non-verified  
+Ensuring freedom of speech with government oversight  
+Training every individual for national defense  
+Restricting activities of organizations with other countries  
+Upholding the principle of "an eye for an eye" in international dealings  
+Ensuring high funding into military power  
+Imposing high taxes on sugar  
   
 vi) Resource and Governance Management Ministry:  
 Responsibilities:  
